@@ -1,0 +1,31 @@
+.port {
+    background-color: #eee;
+}
+
+
+
+
+#resume {
+    color: #f0f2f5;
+    text-align: center;
+    padding-top: 175px;
+    margin-top: 300px;
+    border-radius: 10px;
+    
+    
+}
+.port {
+    background-color: var(--warning);
+}
+
+.bottom {
+    background-color: #1b1b1c;
+    color: #f0f2f5;
+}
+
+.other {
+    background-color: #1b1b1c;
+}
+body {
+    background-color: #1b1b1c;
+}
